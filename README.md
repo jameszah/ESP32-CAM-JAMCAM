@@ -5,9 +5,9 @@ Video Recorder With Viewfinder, Streamer, Clock, ... and Snakes!
 - Various graphics displays such as blinking lights, conways game of life, battling snakes, tron snakes, ...
 - Various clocks .. with weather report from your neighborhood
 - Video editor builtin, to clip a segment of a recorded video, or reduce the framerate from 24fps, to 10fps, 1 fps, etc to reduce the size of video due to the limited 4mbps download rate, and rebuild the index of a broken video.
-- Touch control to change the video effects right from the display, and  start/stop recording, rather than using the website.
+- Touch control to change the video display right from the display, and  start/stop recording, rather than using the website.
 
-Starts as hostmode at ssid JAMCAM password 12344321, and 192,168.4.1, and then you can change hostmode name/pass, and add 2 router ssid/pass combinations, plus timezone, weatherapi.com id and postal code for weather, etc.
+Starts as hostmode at ssid JAMCAM password 12344321, and 192.168.4.1, and then you can change hostmode name/pass, and add 2 router ssid/pass combinations, plus timezone, weatherapi.com id and postal code for weather, etc from the webpage.  Plus edit, download, delete the videos.
 
 The website allows you to control everything as well as stream the video being observed or recorded, and the video/effects being displayed on the 6 inch 16x16 led screen.
 
