@@ -17,6 +17,8 @@ The website allows you to control everything as well as stream the video being o
 https://youtu.be/ikhZ34WgObc?si=zTin8G-l6vyFVko7
 
 https://github.com/jameszah/CameraWebServerRecorder
+
 https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior
+
 https://github.com/bitluni/LEDWallCamera
 
