@@ -17,6 +17,8 @@ Its kind of a hidden camera in plain sight!
 
 ![4](https://github.com/jameszah/ESP32-CAM-JAMCAM/assets/36938190/46f56704-7cb6-4de9-bc85-189d572db67d)
 
+[![Click to see on Youtube](http://img.youtube.com/vi/49yO_fuzdnk/hqdefault.jpg)]((https://youtu.be/49yO_fuzdnk) "JamCam Intro")
+
 Effects from bitluni video wall, and the code:
 - https://youtu.be/ikhZ34WgObc?si=zPCLVyLF8IBuEhSW at about 4:30
 - https://github.com/bitluni/LEDWallCamera
